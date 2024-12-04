@@ -1,0 +1,27 @@
+[
+  {
+    "model": "products.productcategory",
+    "pk": 1,
+    "fields": {
+      "name": "odejda",
+      "descreption": "опаа "
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 2,
+    "fields": {
+      "name": "obuv",
+      "descreption": null
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 3,
+    "fields": {
+      "name": "aksesuary",
+      "descreption": null
+    }
+  }
+
+]

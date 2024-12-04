@@ -1,0 +1,39 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "╩єфш ўхЁэюую ЎтхЄр ё ьюэюуЁрььрьnmmmш adidas Originals",
+      "descreption": "аралопраолп",
+      "price": 6090,
+      "quantity": 10,
+      "image": "products_image/юсюш2_vs7ubmn.jpg",
+      "categoty": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "яяяяяяяя",
+      "descreption": "яяяяяяяя",
+      "price": 89789,
+      "quantity": 3,
+      "image": "products_image/╤эшьюъ_¤ъЁрэр_2024-10-04_223549.png",
+      "categoty": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "opa",
+      "descreption": "opa",
+      "price": 89789,
+      "quantity": 90,
+      "image": "products_image/╤эшьюъ_¤ъЁрэр_2024-10-04_223549.png",
+      "categoty": 2
+    }
+  }
+]
+
