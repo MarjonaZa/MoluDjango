@@ -49,6 +49,7 @@ def basket_remove(request, basket_id):
 
 
 # def products(request):
+# надеюсь что работает
 #     context = {
 #         'title': 'Store = каталог',
 #         'products': [
